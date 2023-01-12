@@ -1,0 +1,18 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Es el cursos de platzi sobre asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Robert Medina, Csoperativo@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
